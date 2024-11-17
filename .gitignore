@@ -1,0 +1,4 @@
+.idea
+.venv
+pg_data
+static
